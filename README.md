@@ -81,7 +81,10 @@ The app is currently in testing. Store links will be published here once it is
 released.
 
 - **iOS** — in review on the App Store
-- **Android** — in testing on Google Play
+- **Android** — in closed testing on Google Play
+
+**Want to try it before release?** Testers are welcome —
+see **[TESTING.md](TESTING.md)** for how to join.
 
 ## Getting started
 
