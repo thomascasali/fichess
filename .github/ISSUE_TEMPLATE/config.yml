@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: mailto:ficschessapp@gmail.com
+    about: Have a question about Fichess that isn't a bug or a feature request? Email us directly.
+  - name: Problem with the FICS server itself
+    url: https://www.freechess.org
+    about: >
+      Issues with your FICS account, ratings, bans, or other server-side matters are handled by
+      the Free Internet Chess Server administrators, not by the Fichess app developer. Please
+      contact FICS directly via their website.

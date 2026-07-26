@@ -1,0 +1,44 @@
+name: Feature Request
+description: Suggest an idea or improvement for Fichess.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement to **Fichess - Online Chess**.
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+      description: Describe the feature or change you'd like to see.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why? What problem does it solve?
+      description: Help us understand the use case or pain point behind the request.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform relevance
+      options:
+        - Both
+        - iOS only
+        - Android only
+    validations:
+      required: false
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?
+      description: Extra context, mockups, links, or examples from other apps.
+    validations:
+      required: false
