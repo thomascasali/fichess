@@ -55,7 +55,7 @@ Account → Delete account**, the App does two things:
    making you write an email yourself, the App performs a single background request
    to a relay server operated by the developer
    (`api.maraffaonline.it`), which then emails the request to
-   `fics-admin@freechess.org`.
+   `support@freechess.org`.
 
 **That request contains only your FICS username and your platform (iOS or
 Android).** The relay server also records the originating IP address in its logs,
@@ -64,9 +64,13 @@ is stored in a database, and the information is used solely to forward your
 deletion request.
 
 The App then erases your saved credentials and your local game history from the
-device.
+device. That part is immediate and entirely under the App's control.
 
-Deleting the FICS account itself is carried out by the FICS administrators.
+Removing the FICS account itself is not: it is decided and carried out by the
+FICS administrators, at their discretion and according to their own policies.
+They delete accounts only rarely. The App can send the request and erase
+everything held on your device, but it cannot promise an outcome on a server it
+does not operate.
 
 ## 4. Files you choose to share
 
