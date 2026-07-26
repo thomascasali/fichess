@@ -98,7 +98,7 @@ Found a bug, or want to suggest something?
 
 - **[Open an issue](https://github.com/thomascasali/fichess/issues/new/choose)** —
   the fastest way, and it helps other players too.
-- **Email** — [ficschessapp@gmail.com](mailto:ficschessapp@gmail.com)
+- **Email** — [casali.thomas@gmail.com](mailto:casali.thomas@gmail.com)
 
 Please see [SUPPORT.md](SUPPORT.md) for what to include in a good bug report, and
 for which problems belong to the FICS server rather than to this app.

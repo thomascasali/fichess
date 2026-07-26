@@ -108,7 +108,7 @@ history of changes is visible in this repository.
 
 Questions about this policy, or about your data:
 
-**[ficschessapp@gmail.com](mailto:ficschessapp@gmail.com)**
+**[casali.thomas@gmail.com](mailto:casali.thomas@gmail.com)**
 
 For anything concerning your FICS *account* — ratings, bans, registration —
 contact the FICS administrators at [freechess.org](https://www.freechess.org).

@@ -66,7 +66,7 @@ your way — is usually more useful than describing the solution you have in min
 If you would rather not use GitHub, or your report contains something you would
 prefer not to publish:
 
-**[ficschessapp@gmail.com](mailto:ficschessapp@gmail.com)**
+**[casali.thomas@gmail.com](mailto:casali.thomas@gmail.com)**
 
 Please put "Fichess" in the subject, and include the same details as above.
 
