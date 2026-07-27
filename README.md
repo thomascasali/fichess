@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="#support">Support</a> ·
+  <a href="TERMS.md">Terms of Use</a> ·
   <a href="PRIVACY.md">Privacy Policy</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://github.com/thomascasali/fichess/issues">Report a bug</a>

@@ -55,6 +55,27 @@ the game can be looked up. Please don't include your password.
 **A screenshot or screen recording**, if the problem is visual. On both platforms
 you can record the screen and drag the video straight into the issue.
 
+## Reporting objectionable messages or abusive players
+
+The app carries chat written by other people on FICS. If someone sends you
+something offensive:
+
+**Report the message.** Press and hold it and choose *Report message*. It reaches
+me directly. Reports are reviewed **within 24 hours**: upheld reports get the
+content removed from the app, the player blocked, and the account referred to the
+FICS administrators for sanction.
+
+**Block the player.** Press and hold one of their messages and choose *Block
+player*. Their messages vanish from the app immediately, and the block is applied
+on the FICS server too, so they cannot reach you there either. Manage or undo it
+from **Settings → Blocked players**.
+
+Offensive language is also filtered automatically: caught messages are hidden
+behind a warning you can choose to reveal.
+
+Accounts that repeatedly send objectionable content lose access to the messaging
+features of the app. The full policy is in the [Terms of Use](TERMS.md).
+
 ## Requesting a feature
 
 Use **[the feature request form](https://github.com/thomascasali/fichess/issues/new/choose)**.
