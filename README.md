@@ -78,13 +78,10 @@ account and keep your rating.
 
 ## Download
 
-The app is currently in testing. Store links will be published here once it is
-released.
-
-- **iOS** — in review on the App Store
+- **iOS** — **[Download on the App Store](https://apps.apple.com/app/fichess-online-chess/id6761561513)**
 - **Android** — in closed testing on Google Play
 
-**Want to try it before release?** Testers are welcome —
+**Want to try the Android version before release?** Testers are welcome —
 see **[TESTING.md](TESTING.md)** for how to join.
 
 ## Getting started
