@@ -5,6 +5,28 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.3.1
+
+### Changed
+- "Rate the app" now opens the App Store review page directly.
+- The GitHub link now opens the app's public page, with the privacy policy,
+  terms of use and support guide.
+
+## 2.3.0
+
+### Added
+- **Terms of Use**, shown before your first login. They set out plainly that
+  there is no tolerance for objectionable content or abusive behaviour. You can
+  re-read them any time from Info & Support.
+- **Report a message**: press and hold any message you receive and choose
+  *Report message*. Reports are reviewed within 24 hours.
+- **Block a player**: press and hold one of their messages and choose *Block
+  player*. Their messages disappear from the app immediately, and the block is
+  applied on the FICS server too, so they can no longer reach you there either.
+  Manage the list from Settings → Blocked players.
+- **Automatic filtering** of offensive language. A caught message is hidden
+  behind a warning, which you can reveal if you want to.
+
 ## 2.2.1
 
 ### Changed

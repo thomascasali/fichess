@@ -4,8 +4,9 @@ Fichess is in closed testing on Google Play before its public release. Testers
 get the app for free, ahead of everyone else, and their feedback shapes what
 ships.
 
-Android only for now. iOS testing goes through TestFlight — write to the address
-below if you would like to take part on iPhone.
+**This page is about Android.** On iPhone and iPad the app is already published:
+just install it from the
+[App Store](https://apps.apple.com/app/fichess-online-chess/id6761561513).
 
 ## How to join
 
