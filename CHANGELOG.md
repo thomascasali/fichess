@@ -5,6 +5,22 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.0
+
+### Added
+- **Flood protection.** If someone buries you in messages, or in repeated draw and takeback
+  requests while your clock is running, Fichess now notices. Their messages are muted for as
+  long as the burst lasts, and a strip appears offering to block them or send the incident for
+  review. It sits at the bottom of the screen: it will never cover the board or the clocks, and
+  it is never a dialog you have to dismiss before you can move.
+
+### Fixed
+- A premove can now be cancelled by tapping the board, the way it works in other chess apps.
+  Previously the only way was the small ✕ on the banner above the board.
+- The board, clocks and move list no longer redraw every time a message arrives. On a busy
+  connection this could delay your own move — and with it, cost you time on the clock.
+- Draw, takeback and abort requests from your opponent are now recognised properly.
+
 ## 2.3.1
 
 ### Changed
