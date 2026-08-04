@@ -5,6 +5,14 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.1
+
+### Changed
+- Fichess now identifies itself to the FICS server by its real name, version and platform
+  (for example "Fichess 2.4.1 on iOS"). It had been announcing an old internal name and the
+  wrong version number, which made life harder for the FICS administrators when a Fichess user
+  asked them for help. Thanks to mattuc, Head Administrator of FICS, for spotting it.
+
 ## 2.4.0
 
 ### Added
