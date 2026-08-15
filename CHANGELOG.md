@@ -5,6 +5,15 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.2
+
+### Fixed
+- The clocks no longer start before the game has really begun. FICS holds both clocks until each
+  player has made a move — a game only counts from Black's reply — and the app was starting the
+  opponent's clock as soon as the first move was played.
+- The right clock now runs. When you were playing Black, the app could show White's clock ticking
+  on your turn.
+
 ## 2.4.1
 
 ### Changed
