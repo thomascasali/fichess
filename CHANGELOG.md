@@ -5,6 +5,20 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.3
+
+### Fixed
+- The channel directory was wrong. Nine of its fourteen entries named the wrong topic, and four
+  channels listed as Italian, Spanish, German and Youth do not exist on FICS at all — tapping them
+  dropped you into an empty, undefined channel. Every number now comes from the server's own
+  channel list. The language channels are 72 to 77, the Youth channel is 51, and the Chess channel
+  is 55.
+
+### Added
+- You can now join any channel by number from the Channels tab, not only the ones in the list.
+  A curated list will always be missing somebody's channel — channel 39, Politics, is a busy one
+  that was not there. Thanks to the player who reported it.
+
 ## 2.4.2
 
 ### Fixed
