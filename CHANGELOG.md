@@ -5,6 +5,14 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.4
+
+### Changed
+- Fichess now requires iOS 15 or later. No device is affected: iOS 15 runs on exactly the same
+  iPhones and iPads as iOS 14, back to the iPhone 6s. If you have deliberately stayed on iOS 14,
+  the App Store will keep offering you version 2.4.3. Apple stops accepting apps built for iOS 14
+  in spring 2027, so this moves ahead of that.
+
 ## 2.4.3
 
 ### Fixed
