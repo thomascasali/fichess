@@ -5,6 +5,14 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.5
+
+### Added
+- You can talk to your opponent after the game ends. Until now the only things left on the
+  game-over screen were Rematch and Lobby, so there was no way to say "good game" to the person
+  you had just played. There is now a **Message opponent** button there, and the chat icon no
+  longer disappears the moment a result arrives.
+
 ## 2.4.4
 
 ### Changed
