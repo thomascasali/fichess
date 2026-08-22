@@ -5,13 +5,13 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
-## 2.4.6
+## 2.4.7
 
 ### Added
 - **Messages you were never told about.** Other players can leave you messages that wait on the
   server until you read them. Fichess had no idea they existed — the only way to see one was to
-  type `messages` into the console, so they sat unread for weeks. The lobby now shows a banner
-  when you have unread messages, and a Messages screen lists them and lets you reply.
+  type `messages` into the console, so they sat unread for weeks. There is now a **Messages** tab
+  in Chat, alongside tells and channels, and the lobby shows a banner when something is unread.
 
 ## 2.4.5
 
