@@ -5,6 +5,13 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.8
+
+### Fixed
+- The console inside a game showed nothing when you typed a command. It was being sent and the
+  server was answering — the panel simply never redrew, so it looked as though nothing had
+  happened. Commands you type are now also echoed in the log, so you can always see what went out.
+
 ## 2.4.7
 
 ### Added
