@@ -5,6 +5,19 @@ All notable user-facing changes to **Fichess - Online Chess** are documented her
 > Since version 2.2.0 the app is called **Fichess** (previously "FICS Chess"). It's the same app —
 > just a new name and icon.
 
+## 2.4.10
+
+### Added
+- **Sound effects.** The sound setting has been there for a while, but the app had no sounds to
+  play, so turning it on did nothing. You now hear moves, captures, castling, check, promotion,
+  the start and end of a game, a single warning when your own clock runs low, incoming
+  challenges and private messages. Sounds mix with your music instead of stopping it.
+
+### Fixed
+- The lobby forgot your seek filter. If you chose "All" and switched to another tab, it was back
+  on "Blitz" when you returned. The filter, and the rated and bots options next to it, are now
+  remembered, also after you close the app.
+
 ## 2.4.8
 
 ### Fixed
